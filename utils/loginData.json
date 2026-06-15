@@ -1,0 +1,21 @@
+{
+  "validUser": {
+    "username": "john",
+    "password": "demo"
+  },
+
+  "invalidUser": {
+    "username": "invaliduser",
+    "password": "invalidpass"
+  },
+
+  "emptyUser": {
+    "username": "",
+    "password": ""
+  },
+
+  "customUser": {
+    "username": "john",
+    "password": "demo"
+  }
+}
