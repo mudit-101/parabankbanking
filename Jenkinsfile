@@ -49,8 +49,3 @@ pipeline {
         }
     }
 }
-<<<<<<< HEAD
-//ye use kr lo pipeline je liye
-=======
-//ye use kr lo pipeline je liye
->>>>>>> 295e2d8814751d70bfe215c446770dc199f9465a
